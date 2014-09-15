@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="639" y="247" />
+    <location key="OptionsEditor.0.0.1280.800" x="51" y="22" />
+    <size key="OptionsEditor.0.0.1280.800" width="1224" height="778" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.dark.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="installation.uid" value="7684089c-4149-42a1-b7db-3be842e83c7a" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="ColorChooser.RecentColors" value="184-190-198-255,,,218-224-232-255" />
+  </component>
+</application>
+
